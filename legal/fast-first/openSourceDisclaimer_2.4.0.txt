@@ -3531,7 +3531,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ----------------------------------------------
 
-## @expo/cli@0.24.15
+## @expo/cli@0.24.20
 
 License: MIT
 Author: Expo
@@ -3706,7 +3706,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @expo/env@1.0.5
+## @expo/env@1.0.7
 
 License: MIT
 Author: Unknown
@@ -3741,7 +3741,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @expo/fingerprint@0.13.1
+## @expo/fingerprint@0.13.4
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -3777,7 +3777,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @expo/image-utils@0.7.4
+## @expo/image-utils@0.7.6
 
 License: MIT
 Author: Unknown
@@ -3812,43 +3812,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @expo/json-file@9.1.4
-
-License: MIT
-Author: Unknown
-Repository: https://github.com/expo/expo.git
-
-### License Text
-
-```
-The MIT License (MIT)
-
-Copyright (c) 2015-present 650 Industries, Inc. (aka Expo)
-
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
-
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
-
-
-```
-
-----------------------------------------------
-
-## @expo/metro-config@0.20.15
+## @expo/json-file@9.1.5
 
 License: MIT
 Author: Unknown
@@ -3884,7 +3848,43 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @expo/osascript@2.2.4
+## @expo/metro-config@0.20.17
+
+License: MIT
+Author: Unknown
+Repository: https://github.com/expo/expo.git
+
+### License Text
+
+```
+The MIT License (MIT)
+
+Copyright (c) 2015-present 650 Industries, Inc. (aka Expo)
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
+```
+
+----------------------------------------------
+
+## @expo/osascript@2.2.5
 
 License: MIT
 Author: Unknown
@@ -3919,7 +3919,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @expo/package-manager@1.8.4
+## @expo/package-manager@1.8.6
 
 License: MIT
 Author: Unknown
@@ -4792,7 +4792,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @react-native/assets-registry@0.79.4
+## @react-native/assets-registry@0.79.5
 
 License: MIT
 Author: Unknown
@@ -4840,7 +4840,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @react-native/codegen@0.79.4
+## @react-native/codegen@0.79.5
 
 License: MIT
 Author: Unknown
@@ -4856,7 +4856,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @react-native/community-cli-plugin@0.79.4
+## @react-native/community-cli-plugin@0.79.5
 
 License: MIT
 Author: Unknown
@@ -4872,7 +4872,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @react-native/debugger-frontend@0.79.4
+## @react-native/debugger-frontend@0.79.5
 
 License: BSD-3-Clause
 Author: Unknown
@@ -4888,7 +4888,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @react-native/dev-middleware@0.79.4
+## @react-native/dev-middleware@0.79.5
 
 License: MIT
 Author: Unknown
@@ -4904,7 +4904,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @react-native/gradle-plugin@0.79.4
+## @react-native/gradle-plugin@0.79.5
 
 License: MIT
 Author: Unknown
@@ -4936,7 +4936,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @react-native/normalize-colors@0.79.4
+## @react-native/normalize-colors@0.79.5
 
 License: MIT
 Author: Unknown
@@ -4952,7 +4952,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @react-native/virtualized-lists@0.79.4
+## @react-native/virtualized-lists@0.79.5
 
 License: MIT
 Author: Unknown
@@ -4968,7 +4968,7 @@ No license text available.
 
 ----------------------------------------------
 
-## @react-navigation/core@7.9.2
+## @react-navigation/core@7.12.1
 
 License: MIT
 Author: Unknown
@@ -5003,7 +5003,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @react-navigation/elements@2.4.2
+## @react-navigation/elements@2.5.2
 
 License: MIT
 Author: Unknown
@@ -5038,7 +5038,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @react-navigation/native@7.1.9
+## @react-navigation/native@7.1.14
 
 License: MIT
 Author: Unknown
@@ -5073,7 +5073,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @react-navigation/native-stack@7.3.13
+## @react-navigation/native-stack@7.3.21
 
 License: MIT
 Author: Unknown
@@ -5108,7 +5108,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @react-navigation/routers@7.3.7
+## @react-navigation/routers@7.4.1
 
 License: MIT
 Author: Unknown
@@ -6858,7 +6858,7 @@ WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ----------------------------------------------
 
-## babel-preset-expo@13.2.1
+## babel-preset-expo@13.2.3
 
 License: MIT
 Author: Expo <support@expo.dev>
@@ -10115,7 +10115,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## expo@53.0.12
+## expo@53.0.19
 
 License: MIT
 Author: Expo
@@ -10131,7 +10131,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-application@6.1.4
+## expo-application@6.1.5
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10147,7 +10147,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-asset@11.1.5
+## expo-asset@11.1.7
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10163,7 +10163,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-constants@17.1.6
+## expo-constants@17.1.7
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10179,7 +10179,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-file-system@18.1.10
+## expo-file-system@18.1.11
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10195,7 +10195,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-font@13.3.1
+## expo-font@13.3.2
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10227,7 +10227,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-modules-autolinking@2.1.12
+## expo-modules-autolinking@2.1.14
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10243,7 +10243,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-modules-core@2.4.0
+## expo-modules-core@2.4.2
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10275,7 +10275,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-system-ui@5.0.9
+## expo-system-ui@5.0.10
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -11004,7 +11004,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## getenv@1.0.0
+## getenv@2.0.0
 
 License: MIT
 Author: Christoph Tavan <dev@tavan.de>
@@ -16707,7 +16707,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## react-native@0.79.4
+## react-native@0.79.5
 
 License: MIT
 Author: Unknown
@@ -19628,7 +19628,7 @@ CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
 
 ----------------------------------------------
 
-## use-latest-callback@0.2.3
+## use-latest-callback@0.2.4
 
 License: MIT
 Author: Satyajit Sahoo <satyajit.happy@gmail.com>

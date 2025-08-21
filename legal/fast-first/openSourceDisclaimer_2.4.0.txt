@@ -3618,7 +3618,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @expo/config-plugins@10.0.2
+## @expo/config-plugins@10.1.2
 
 License: MIT
 Author: Unknown
@@ -3955,7 +3955,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## @expo/plist@0.3.4
+## @expo/plist@0.3.5
 
 License: MIT
 Author: Unknown
@@ -5968,6 +5968,42 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+```
+
+----------------------------------------------
+
+## ajv@6.12.6
+
+License: MIT
+Author: Evgeny Poberezkin
+Repository: https://github.com/ajv-validator/ajv.git
+
+### License Text
+
+```
+The MIT License (MIT)
+
+Copyright (c) 2015-2017 Evgeny Poberezkin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+
 ```
 
 ----------------------------------------------
@@ -10115,7 +10151,7 @@ SOFTWARE.
 
 ----------------------------------------------
 
-## expo@53.0.19
+## expo@53.0.20
 
 License: MIT
 Author: Expo
@@ -10179,6 +10215,70 @@ No license text available.
 
 ----------------------------------------------
 
+## expo-dev-client@5.2.4
+
+License: MIT
+Author: 650 Industries, Inc.
+Repository: https://github.com/expo/expo.git
+
+### License Text
+
+```
+License: MIT
+
+No license text available.
+```
+
+----------------------------------------------
+
+## expo-dev-launcher@5.1.16
+
+License: MIT
+Author: 650 Industries, Inc.
+Repository: https://github.com/expo/expo.git
+
+### License Text
+
+```
+License: MIT
+
+No license text available.
+```
+
+----------------------------------------------
+
+## expo-dev-menu@6.1.14
+
+License: MIT
+Author: 650 Industries, Inc.
+Repository: https://github.com/expo/expo.git
+
+### License Text
+
+```
+License: MIT
+
+No license text available.
+```
+
+----------------------------------------------
+
+## expo-dev-menu-interface@1.10.0
+
+License: MIT
+Author: 650 Industries, Inc.
+Repository: https://github.com/expo/expo.git
+
+### License Text
+
+```
+License: MIT
+
+No license text available.
+```
+
+----------------------------------------------
+
 ## expo-file-system@18.1.11
 
 License: MIT
@@ -10211,7 +10311,39 @@ No license text available.
 
 ----------------------------------------------
 
+## expo-json-utils@0.15.0
+
+License: MIT
+Author: 650 Industries, Inc.
+Repository: https://github.com/expo/expo.git
+
+### License Text
+
+```
+License: MIT
+
+No license text available.
+```
+
+----------------------------------------------
+
 ## expo-keep-awake@14.1.4
+
+License: MIT
+Author: 650 Industries, Inc.
+Repository: https://github.com/expo/expo.git
+
+### License Text
+
+```
+License: MIT
+
+No license text available.
+```
+
+----------------------------------------------
+
+## expo-manifests@0.16.6
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10243,7 +10375,7 @@ No license text available.
 
 ----------------------------------------------
 
-## expo-modules-core@2.4.2
+## expo-modules-core@2.5.0
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -10276,6 +10408,22 @@ No license text available.
 ----------------------------------------------
 
 ## expo-system-ui@5.0.10
+
+License: MIT
+Author: 650 Industries, Inc.
+Repository: https://github.com/expo/expo.git
+
+### License Text
+
+```
+License: MIT
+
+No license text available.
+```
+
+----------------------------------------------
+
+## expo-updates-interface@1.1.0
 
 License: MIT
 Author: 650 Industries, Inc.
@@ -12478,6 +12626,41 @@ DEALINGS IN THE SOFTWARE.
 
 This library is a fork of 'better-json-errors' by Kat Marchán, extended and
 distributed under the terms of the MIT license above.
+
+```
+
+----------------------------------------------
+
+## json-schema-traverse@0.4.1
+
+License: MIT
+Author: Evgeny Poberezkin
+Repository: git+https://github.com/epoberezkin/json-schema-traverse.git
+
+### License Text
+
+```
+MIT License
+
+Copyright (c) 2017 Evgeny Poberezkin
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 
 ```
 
@@ -16863,7 +17046,7 @@ No license text available.
 
 ----------------------------------------------
 
-## react-native-reanimated@3.17.5
+## react-native-reanimated@4.0.2
 
 License: MIT
 Author: Krzysztof Magiera <krzys.magiera@gmail.com>
@@ -17041,6 +17224,40 @@ The MIT License (MIT)
 
 Copyright (c) [2015-2016] [Horcrux]
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
+
+```
+
+----------------------------------------------
+
+## react-native-worklets@0.4.1
+
+License: MIT
+Author: Unknown
+Repository: git+https://github.com/software-mansion/react-native-reanimated.git
+
+### License Text
+
+```
+MIT License
+
+Copyright (c) 2024 nobody
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
@@ -19623,6 +19840,31 @@ FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR
 COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER
 IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN
 CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+```
+
+----------------------------------------------
+
+## uri-js@4.4.1
+
+License: BSD-2-Clause
+Author: Gary Court <gary.court@gmail.com>
+Repository: http://github.com/garycourt/uri-js
+
+### License Text
+
+```
+Copyright 2011 Gary Court. All rights reserved.
+
+Redistribution and use in source and binary forms, with or without modification, are permitted provided that the following conditions are met:
+
+1.	Redistributions of source code must retain the above copyright notice, this list of conditions and the following disclaimer.
+
+2.	Redistributions in binary form must reproduce the above copyright notice, this list of conditions and the following disclaimer in the documentation and/or other materials provided with the distribution.
+
+THIS SOFTWARE IS PROVIDED BY GARY COURT "AS IS" AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE ARE DISCLAIMED. IN NO EVENT SHALL GARY COURT OR CONTRIBUTORS BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+
+The views and conclusions contained in the software and documentation are those of the authors and should not be interpreted as representing official policies, either expressed or implied, of Gary Court.
 
 ```
 
